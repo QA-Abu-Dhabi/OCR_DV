@@ -1,0 +1,4 @@
+# файлы python
+__pycache__/
+build/
+dist/
